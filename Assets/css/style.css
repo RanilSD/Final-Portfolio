@@ -80,7 +80,7 @@ p {
     position: relative;
     margin-bottom: 50px;
     padding: 50px;
-    /* height: 300px; had to comment out preventing flex*/
+    /* height: 300px; had to comment out preventing proper flex*/
     color: #52f033;
 }
 
@@ -121,7 +121,7 @@ p {
 .contact-info {
     margin-bottom: 20px;
     padding: 50px;
-    /* height: 300px; had to comment out was preventing flex */
+    /* height: 300px; had to comment out was preventing proper flex */
     color: #52f033;
 }
 
